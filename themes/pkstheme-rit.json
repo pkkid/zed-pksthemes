@@ -16,7 +16,7 @@
           "#64ab8aff"
         ],
         "background": "#252526ff",
-        "border": "#0000",
+        "border": "#00000000",
         "border.variant": "#a8998418",
         "border.focused": "#458588ff",
         "border.selected": "#458588ff",
@@ -307,6 +307,11 @@
           },
           "string": {
             "color": "#bdae93ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.doc": {
+            "color": "#58973aff",
             "font_style": null,
             "font_weight": null
           },

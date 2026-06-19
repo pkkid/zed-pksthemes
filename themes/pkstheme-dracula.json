@@ -335,6 +335,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "string.doc": {
+            "color": "#6272a4ff",
+            "font_style": null,
+            "font_weight": null
+          },
           "string.escape": {
             "color": "#ff79c6ff",
             "font_style": null,

@@ -52,6 +52,7 @@ const SYNTAX_SCOPES = {
   'selector': ['entity.name.tag', 'meta.selector'],
   'selector.pseudo': ['entity.other.attribute-name.pseudo-class', 'entity.other.attribute-name.pseudo-element'],
   'string': ['string'],
+  'string.doc': ['string.quoted.docstring.multi.python', 'string.quoted.docstring.multi', 'string.quoted.docstring', 'comment.block.documentation', 'comment.documentation'],
   'string.escape': ['constant.character.escape'],
   'string.regex': ['string.regexp'],
   'string.special': ['constant.other.symbol', 'string.other'],
