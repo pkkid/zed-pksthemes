@@ -215,6 +215,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "constant.builtin": {
+            "color": "#fe8019ff",
+            "font_style": null,
+            "font_weight": null
+          },
           "constructor": {
             "color": "#ffcc88ff",
             "font_style": null,
