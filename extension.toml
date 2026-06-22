@@ -1,6 +1,6 @@
 id = "pksthemes-theme"
 name = "PKsThemes"
-version = "1.1.0"
+version = "1.2.0"
 schema_version = 1
 authors = ["Michael Shepanski <mjs7231@gmail.com>"]
 description = "RIT, Dracula, Gruvbox, Monokai, and OneDark Pro syntax themes on a shared PKsThemes UI palette."
