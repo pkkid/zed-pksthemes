@@ -236,6 +236,11 @@
             "font_weight": null
           },
           "function": {
+            "color": "#cc241dff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function.definition": {
             "color": "#ffcc88ff",
             "font_style": null,
             "font_weight": null
@@ -291,6 +296,11 @@
             "font_weight": null
           },
           "punctuation.bracket": {
+            "color": "#ee5555ff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation.delimiter": {
             "color": "#ee5555ff",
             "font_style": null,
             "font_weight": null
